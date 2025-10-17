@@ -1,0 +1,4 @@
+id,source_ref,source_created_at,total_price,line1,line2,state,postal_code,country_code
+1001,SHOPIFY-123,2024-09-01T14:25:00Z,54.9,123 Main St,Apt 4,CA,94105-1234,US
+1002,SHOPIFY-124,2024-09-02T11:10:00Z,89.5,456 Oak Avenue,,NY,10001,US
+1003,SHOPIFY-125,2024-09-03T08:45:00Z,39.99,789 Pine Blvd,Unit 12,TX,73301,US
